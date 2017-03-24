@@ -1,1 +1,5 @@
+/................................./
+
 Este programa es de Ejemplo de Git
+estamos trabajando desde la nube
+primer cambio realizado
